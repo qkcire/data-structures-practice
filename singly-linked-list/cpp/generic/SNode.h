@@ -8,3 +8,5 @@ private:
   SNode<E>* next;
   friend class SLinkedList<E>;
 };
+
+// real-quick change
