@@ -9,4 +9,4 @@ private:
   friend class SLinkedList<E>;
 };
 
-// real-quick change
+// real-quick
